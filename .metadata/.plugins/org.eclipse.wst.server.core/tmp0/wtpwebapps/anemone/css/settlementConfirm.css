@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+
+/* 宛先情報画面のテーブルの各項目の幅を設定
+1番目は、paddingを調整することで余計な余白を除去 */
+.horizontal-list-table tr th:first-child {
+	padding: 10px 0.5vw;
+}
+
+.horizontal-list-table tr td:nth-child(2){
+	width: 6.92vw;
+}
+
+.horizontal-list-table tr td:nth-child(3){
+	width: 6.92vw;
+}
+
+.horizontal-list-table tr td:nth-child(4){
+	width: 13.84vw;
+}
+
+.horizontal-list-table tr td:nth-child(5){
+	width: 20.76vw;
+}
+
+.horizontal-list-table tr td:nth-child(6){
+	width: 13.84vw;
+}
+
+.horizontal-list-table tr td:nth-child(7){
+	width: 20.76vw;
+}
+

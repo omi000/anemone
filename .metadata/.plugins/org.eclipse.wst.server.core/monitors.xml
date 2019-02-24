@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<monitors>
+  <monitor port="8010" portId="server" serverId="ローカル・ホスト の Tomcat8 (Java8)" started="false"/>
+</monitors>

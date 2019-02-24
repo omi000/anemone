@@ -1,0 +1,5 @@
+contextsDir=/Users/omikeika/Desktop/Eclipse_4.6.3.app/Contents/tomcat/8/conf/Catalina/localhost
+eclipse.preferences.version=1
+tomcatConfigFile=/Users/omikeika/Desktop/Eclipse_4.6.3.app/Contents/tomcat/8/conf/server.xml
+tomcatDir=/Users/omikeika/Desktop/Eclipse_4.6.3.app/Contents/tomcat/8
+tomcatVersion=tomcatV8
